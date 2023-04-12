@@ -23,3 +23,4 @@ elif sum_of_divisors < Nint:
 else:
     category = "perfect"
 print("The number", Nint, "is", category)
+
