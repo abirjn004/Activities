@@ -26,3 +26,5 @@ elif 3*10**19<=a<3*10**19:
     print("X-rays")
 else:
     print("Gamma rays")
+    
+   
