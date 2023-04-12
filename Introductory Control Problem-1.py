@@ -28,3 +28,4 @@ elif team2_Nrr > team1_Nrr:
     print("Team 2 has a higher Net Run Rate and tops the points table.")
 else:
     print(" Match Tie")
+    
