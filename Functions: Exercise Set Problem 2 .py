@@ -13,3 +13,4 @@ def chit_word(message):
 b=input()
 a=chit_word(b)
 print(a)
+
