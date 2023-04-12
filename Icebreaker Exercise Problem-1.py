@@ -28,3 +28,5 @@ if 380<=a<=750:
         print("Red")
 else:
     print("Entered wavelength is outside of visible spectrum")
+    
+   
