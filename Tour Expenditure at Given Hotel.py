@@ -47,3 +47,4 @@ elif Room=="Non AC Room":
     print("Grand Total: INR",round(Total,2))
 else:
     print("Invalid Room Type")
+    
