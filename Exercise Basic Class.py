@@ -29,3 +29,4 @@ Medicine= MedPlus("Pandrop",25,14.22)
 print(Medicine.get_Name())
 Medicine.set_Price(50.90)
 print(Medicine.get_Price())
+
