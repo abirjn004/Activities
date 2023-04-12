@@ -21,3 +21,4 @@ elif n==7:
     print(a**b)
 else:
     print('Invalid Input')
+    
