@@ -19,3 +19,4 @@ def Earthquake_Impact(A):
     else:
         return "Great Earthquake"
 print(Earthquake_Impact(5))
+
