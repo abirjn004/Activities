@@ -16,3 +16,4 @@ def discount(amount,prime_member,friday):
         return 'No discount'
         
 print(discount(1200,True,False))
+
