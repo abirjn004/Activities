@@ -20,3 +20,4 @@ B=set(A)
 print("sentence_set= ",B,"\n")
 
 print("num_unique: ",len(B),"\n")
+
